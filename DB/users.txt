@@ -1,0 +1,10 @@
+1	Platon	Ivanov
+2	Klim	Nikonov
+3	Bear	Grills
+4	Lena	Oxton
+5	Rachel	Amber
+6	Hitomi	Mikaro
+7	Garu	Lilo
+8	Evgeny	Pastebailo
+9	Mila	Vito
+10	Franz	Gerber

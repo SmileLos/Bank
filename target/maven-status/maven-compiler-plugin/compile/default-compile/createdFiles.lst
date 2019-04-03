@@ -1,0 +1,10 @@
+Controller\LogicServlet.class
+Model\logic\FindUserByID.class
+Controller\ManagementSystem.class
+Model\entity\User.class
+Model\logic\CountRichestUser.class
+Model\logic\CountSumOfAccounts.class
+Model\entity\Account.class
+Model\entity\container\AccountList.class
+Model\entity\container\UserList.class
+Model\logic\SearchUser.class
